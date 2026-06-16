@@ -1,5 +1,19 @@
 # Spectrum Analyzer GUI for hackrf_sweep for Windows/Linux
 
+> ## Superseded — use the updated project
+>
+> This fork is **no longer maintained**. My current HackRF spectrum tool is
+> **[hackrf_sweep_visualizer_v1](https://github.com/sohmee/hackrf_sweep_visualizer_v1)** —
+> a browser-based Python spectrum analyser and waterfall (2026).
+>
+> | Legacy (this repo) | Current ([hackrf_sweep_visualizer_v1](https://github.com/sohmee/hackrf_sweep_visualizer_v1)) |
+> |---|---|
+> | Java desktop GUI | Python + browser UI |
+> | Windows / Linux build | Linux, macOS, Windows — single Python file |
+> | Fork of [pavsa/hackrf-spectrum-analyzer](https://github.com/pavsa/hackrf-spectrum-analyzer) | Standalone rewrite with RF simulator, WebSocket UI, and live gain controls |
+>
+> The README below is kept for reference only.
+
 ![screenshot](screenshot.gif "screenshot")
 
 ### Download:
